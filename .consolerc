@@ -1,0 +1,9 @@
+# Configurar el prompt
+PS1='[\u@\h \W]\$ '
+
+# Crear una alias
+alias ll='ls -la'
+
+
+
+echo "cargado"
